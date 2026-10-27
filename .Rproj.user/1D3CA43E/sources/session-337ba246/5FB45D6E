@@ -1,0 +1,26 @@
+{
+    "id": "5FB45D6E",
+    "path": "/cloud/project/index.Rmd",
+    "project_path": "index.Rmd",
+    "type": "r_markdown",
+    "hash": "2350741157",
+    "contents": "",
+    "dirty": false,
+    "created": 1792706299207.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "16,4",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1793136383,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1793136383834,
+    "read_only": false,
+    "read_only_alternatives": []
+}
